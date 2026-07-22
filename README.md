@@ -1,7 +1,7 @@
 # Syed Abrar Hussain
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Mechatronics+%26+Control System+Engineer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Mechatronics+%26+Robotics+Engineer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
   </a>
 </p>
 
