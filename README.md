@@ -11,6 +11,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Robotic Arm Animation" />
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd4NnA3eTNreW5sZDV3OWxydHRreGN4b3I4eXJxbGttZDN5eHN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2I4pM7uO2Pzms/giphy.gif" width="300px" alt="Robotic Arm Coding Loop" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Mechatronics+%26+Robotics+Engineeer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
+  </a>
+</p>
