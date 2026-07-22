@@ -4,8 +4,24 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Mechatronics+%26+Robotics+Engineeer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
   </a>
 </p>
-# 💫 About Me:
-🔭 I’m currently working on: Designing autonomous robotic systems and optimizing CNC automation paths.<br><br>👯 I’m looking to collaborate on: Open-source robotics projects, IoT-based automation, and control systems engineering.<br><br>🤝 I’m looking for help with: Advanced embedded systems programming and implementing real-time operating systems (RTOS).<br><br>🌱 I’m currently learning: Modern control theory, computer vision integration for robotics, and advanced circuit simulation.<br><br>💬 Ask me about: Actuators, sensors, pulse-width modulation (PWM) logic, or hardware-in-the-loop simulation.<br><br>⚡ Fun fact: Mechatronics engineers live in a world where a mechanical problem, an electrical bug, and a software glitch are often the exact same issue!
+<h2 align="left">⚡ About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Designing autonomous robotic systems & optimizing CNC automation paths</li>
+        <li>🤝 <b>Collaboration:</b> Open-source robotics, IoT automation, & control systems</li>
+        <li>🌱 <b>Learning:</b> Modern control theory, Computer Vision, & RTOS integration</li>
+        <li>💬 <b>Ask Me About:</b> PID loops, H-Bridge drivers, PWM logic, & actuator dynamics</li>
+        <li>⚡ <b>Fun Fact:</b> In mechatronics, a mechanical bind, a floating pin, and a software bug are often the exact same issue!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd4NnA3eTNreW5sZDV3OWxydHRreGN4b3I4eXJxbGttZDN5eHN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2I4pM7uO2Pzms/giphy.gif" width="100%" alt="Robotic Arm" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
