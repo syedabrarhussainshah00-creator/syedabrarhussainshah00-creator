@@ -19,12 +19,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedabrarhussainshah00-creator&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedabrarhussainshah00-creator&theme=radical&no-frame=false&no-bg=false" alt="GitHub Trophies" />
-</p>
-
 ## 🔝 Profile Views
 
 <p align="center">
