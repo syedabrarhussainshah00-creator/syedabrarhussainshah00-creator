@@ -11,21 +11,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedabrarhussainshah00-creator&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedabrarhussainshah00-creator&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedabrarhussainshah00-creator&show_icons=true&theme=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedabrarhussainshah00-creator&theme=dark" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedabrarhussainshah00-creator&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedabrarhussainshah00-creator&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syedabrarhussainshah00-creator&theme=radical&no-frame=false&no-bg=false" alt="GitHub Trophies" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username= syedabrarhussainshah00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo & Profile Views
 
----
-[![](https://komarev.com/ghpvc/?username= syedabrarhussainshah00&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=syedabrarhussainshah00-creator&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedabrarhussainshah00-creator&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
