@@ -5,23 +5,26 @@
   </a>
 </p>
 
-<h2>⚡ About Me</h2>
+## ⚡ About Me
 
 <table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Designing autonomous robotic systems & optimizing CNC automation paths</li>
-        <li>🤝 <b>Collaboration:</b> Open-source robotics, IoT automation, & control systems</li>
-        <li>🌱 <b>Learning:</b> Modern control theory, Computer Vision, & RTOS integration</li>
-        <li>💬 <b>Ask Me About:</b> PID loops, H-Bridge drivers, PWM logic, & actuator dynamics</li>
-        <li>⚡ <b>Fun Fact:</b> In mechatronics, a mechanical bind, a floating pin, and a software bug are often the exact same issue!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Robotic Arm" />
-    </td>
-  </tr>
+<tr>
+<td width="65%" valign="top">
+
+- 🏗️ **Current Focus:** Designing autonomous robotic systems & optimizing CNC automation paths
+- 🤝 **Collaboration:** Open-source robotics, IoT automation, & control systems
+- 🌱 **Learning:** Modern Control Theory, Computer Vision, & ROS integration
+- 💬 **Ask Me About:** PID loops, H-Bridge drivers, PWM logic, & actuator dynamics
+- ⚡ **Fun Fact:** In mechatronics, a mechanical bind, a floating pin, and a software bug are often the exact same issue!
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Robotic Arm">
+
+</td>
+</tr>
 </table>
 
 
