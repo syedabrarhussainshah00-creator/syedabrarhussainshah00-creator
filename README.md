@@ -1,4 +1,9 @@
-# syedabrarhussainshah00
+# Syed Abrar Hussain
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Mechatronics+%26+Robotics+Engineeer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
+  </a>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on: Designing autonomous robotic systems and optimizing CNC automation paths.<br><br>👯 I’m looking to collaborate on: Open-source robotics projects, IoT-based automation, and control systems engineering.<br><br>🤝 I’m looking for help with: Advanced embedded systems programming and implementing real-time operating systems (RTOS).<br><br>🌱 I’m currently learning: Modern control theory, computer vision integration for robotics, and advanced circuit simulation.<br><br>💬 Ask me about: Actuators, sensors, pulse-width modulation (PWM) logic, or hardware-in-the-loop simulation.<br><br>⚡ Fun fact: Mechatronics engineers live in a world where a mechanical problem, an electrical bug, and a software glitch are often the exact same issue!
 
@@ -11,23 +16,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px" alt="Robotic Arm Animation" />
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Mechatronics+%26+Robotics+Engineeer;Embedded+Firmware+%2B+Control+Loops;PID+%2B+Kinematics+%2B+Hardware+Design" alt="Typing SVG" />
-  </a>
-</p>
-<h3 align="center">🛠️ Control, Embedded & Simulation Tech Stack</h3>
 
-<p align="center">
-  <!-- Languages & Control -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <br>
-  <!-- Hardware & Platforms -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-</p>
+
