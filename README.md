@@ -13,15 +13,15 @@
 
 - 🏗️ **Current Focus:** Designing autonomous robotic systems & optimizing CNC automation paths
 - 🤝 **Collaboration:** Open-source robotics, IoT automation, & control systems
-- 🌱 **Learning:** Modern Control Theory, Computer Vision, & ROS integration
-- 💬 **Ask Me About:** PID loops, H-Bridge drivers, PWM logic, & actuator dynamics
+- 🌱 **Learning:** Modern Control Theory, Computer Vision, ROS 2 & AI integration
+- 💬 **Ask Me About:** PID loops, H-Bridge drivers, PWM logic, Embedded Systems & actuator dynamics
 - ⚡ **Fun Fact:** In mechatronics, a mechanical bind, a floating pin, and a software bug are often the exact same issue!
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="Robotic Arm">
+<img src="./assets/robotic-arm.svg" width="300" alt="Animated Robotic Arm">
 
 </td>
 </tr>
